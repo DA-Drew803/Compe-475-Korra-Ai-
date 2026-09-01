@@ -1,0 +1,9 @@
+{
+  "$schema": "https://langgra.ph/schema.json",
+  "dependencies": ["."],
+  "graphs": {
+    "supervisor": "./supervisor_agent.py:graph"
+  },
+  "env": ".env",
+  "image_distro": "wolfi"
+}
