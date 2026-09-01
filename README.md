@@ -1,4 +1,4 @@
-An advanced AI chatbot architecture built with **LangGraph** that simulates hardware pipeline hazards (Structural, Data, and Control) inside an LLM multi-agent system. The system coordinates tasks using a central Supervisor agent, three specialized Worker agents, and a dedicated Hazard Layer.
+An  AI chatbot architecture built with **LangGraph** that simulates hardware pipeline hazards (Structural, Data, and Control) inside an LLM multi-agent system. The system coordinates tasks using a central Supervisor agent, three specialized Worker agents, and a dedicated Hazard Layer.
 
 ---
 
