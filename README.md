@@ -38,16 +38,6 @@ The graph uses conditional routing:
 * Large Language Model API
 * LangGraph Studio
 
-## Project Structure
-
-```text
-korra/
-├── graph.py          # Defines Korra's nodes, tools, and graph workflow
-├── langgraph.json    # LangGraph configuration
-├── pyproject.toml    # Project metadata and dependencies
-├── .env              # API keys and environment variables
-└── README.md         # Project documentation
-```
 
 ## Installation
 
